@@ -34,5 +34,5 @@ A user with only the `USER` role cannot delete a book and gets `403 Forbidden`.
    ![DELETE as ADMIN](screenshots/3.png)
 
 4. DELETE request as USER - 403 Forbidden response  
-5. ![DELETE as USER](screenshots/4.png)
+   ![DELETE as USER](screenshots/4.png)
    ![DELETE as USER](screenshots/5.png)
